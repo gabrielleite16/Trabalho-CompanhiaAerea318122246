@@ -1,0 +1,11 @@
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\bin\Debug\netcoreapp2.1\CompanhiaAerea318122246.deps.json
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\bin\Debug\netcoreapp2.1\CompanhiaAerea318122246.runtimeconfig.json
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\bin\Debug\netcoreapp2.1\CompanhiaAerea318122246.runtimeconfig.dev.json
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\bin\Debug\netcoreapp2.1\CompanhiaAerea318122246.dll
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\bin\Debug\netcoreapp2.1\CompanhiaAerea318122246.pdb
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\obj\Debug\netcoreapp2.1\CompanhiaAerea318122246.csprojAssemblyReference.cache
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\obj\Debug\netcoreapp2.1\CompanhiaAerea318122246.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\obj\Debug\netcoreapp2.1\CompanhiaAerea318122246.AssemblyInfoInputs.cache
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\obj\Debug\netcoreapp2.1\CompanhiaAerea318122246.AssemblyInfo.cs
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\obj\Debug\netcoreapp2.1\CompanhiaAerea318122246.dll
+C:\Users\gabriel.defreitas\source\repos\CompanhiaAerea318122246\CompanhiaAerea318122246\obj\Debug\netcoreapp2.1\CompanhiaAerea318122246.pdb
